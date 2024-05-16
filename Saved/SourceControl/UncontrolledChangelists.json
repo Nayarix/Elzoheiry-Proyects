@@ -1,0 +1,33 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"C:/Proyectos UE5/ElzoheiryProject/Content/StarterContent/Materials/M_AssetPlatform.uasset",
+				"C:/Proyectos UE5/ElzoheiryProject/Content/Damage_System/BPI_Damagable.uasset",
+				"C:/Proyectos UE5/ElzoheiryProject/Content/Damage_System/S_DamageInfo.uasset",
+				"C:/Proyectos UE5/ElzoheiryProject/Content/Damage_System/E_DamageType.uasset",
+				"C:/Proyectos UE5/ElzoheiryProject/Content/Damage_System/E_DamageResponse.uasset",
+				"C:/Proyectos UE5/ElzoheiryProject/Content/Damage_System/Player/BP_Player.uasset",
+				"C:/Proyectos UE5/ElzoheiryProject/Content/Damage_System/BPC_DamageSystem.uasset",
+				"C:/Proyectos UE5/ElzoheiryProject/Content/ThirdPerson/Blueprints/BP_ThirdPersonGameMode.uasset",
+				"C:/Proyectos UE5/ElzoheiryProject/Content/Damage_System/Enemy/BP_Enemy.uasset",
+				"C:/Proyectos UE5/ElzoheiryProject/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/1/OL/J638YQ5SUCAR6PF5W0E36E.uasset",
+				"C:/Proyectos UE5/ElzoheiryProject/Content/Proyectiles/BP_ProyectileBase.uasset",
+				"C:/Proyectos UE5/ElzoheiryProject/Content/Proyectiles/BP_ProyectileDarkEnergy.uasset",
+				"C:/Proyectos UE5/ElzoheiryProject/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/D/DE/SWSI13675DVYIZ0N4NF7Y3.uasset",
+				"C:/Proyectos UE5/ElzoheiryProject/Content/InfinityBladeEffects/Enemy/Enemy_Chicken/Materials/M_EnemyChicken.uasset",
+				"C:/Proyectos UE5/ElzoheiryProject/Content/Proyectiles/BP_ProyectileFire.uasset",
+				"C:/Proyectos UE5/ElzoheiryProject/Content/AOE/BP_AOE_Base.uasset",
+				"C:/Proyectos UE5/ElzoheiryProject/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/B/C2/LCT1WAMNWO3DJINRSUSHW7.uasset",
+				"C:/Proyectos UE5/ElzoheiryProject/Content/AOE/BP_AOE_Blast_Base.uasset",
+				"C:/Proyectos UE5/ElzoheiryProject/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/4/T2/VVYASFJLWIRWJCG0M1YB7O.uasset",
+				"C:/Proyectos UE5/ElzoheiryProject/Content/Damage_System/Player/BP_Enemy.uasset",
+				"C:/Proyectos UE5/ElzoheiryProject/Content/Damage_System/BPI_Damageable.uasset",
+				"C:/Proyectos UE5/ElzoheiryProject/Content/ThirdPerson/Blueprints/BP_Player.uasset"
+			]
+		}
+	]
+}
