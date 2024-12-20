@@ -5,6 +5,8 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"E:/UNREAL ENGINE/proyectos/Proyectos UE5/ElzoheiryProject/Content/StarterContent/Architecture/Floor_400x400.uasset",
+				"E:/UNREAL ENGINE/proyectos/Proyectos UE5/ElzoheiryProject/Content/StarterContent/Blueprints/Blueprint_CeilingLight.uasset",
 				"C:/Proyectos UE5/ElzoheiryProject/Content/StarterContent/Materials/M_AssetPlatform.uasset",
 				"C:/Proyectos UE5/ElzoheiryProject/Content/Damage_System/BPI_Damagable.uasset",
 				"C:/Proyectos UE5/ElzoheiryProject/Content/Damage_System/S_DamageInfo.uasset",
